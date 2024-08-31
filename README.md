@@ -16,8 +16,11 @@ This project aims to deepen your understanding of the two concepts that you alre
 
 ## Usage
 ``make`` to compile mandatory part.
+
 ``./pipex infile "ls -l" "wc -l" outfile``
+
 ``make bonus`` to compile mandatory part.
+
 `` ./pipex file1 cmd1 cmd2 cmd3 ... cmdn file2``
 
 ## Guides
