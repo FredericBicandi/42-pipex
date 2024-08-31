@@ -28,11 +28,11 @@ This project aims to deepen your understanding of the two concepts that you alre
 
 The most interesting part of any project is the research that goes behind it. If you are a student, please don't miss out on that opportunity by simply following guides such as these. In any case, they should under no circumstances be your only source of information about this project. Try things, fail, research, try again and succeed! And maybe write your own guide about it. Writing really is the best way to learn.
 
-## watchh how forks work
+### watch how forks work
 
 https://www.youtube.com/watch?v=cex9XrZCU14
 
-##h how pipes work
+### watch how pipes work
 
 https://www.youtube.com/watch?v=Mqb2dVRe0uo
 
