@@ -1,7 +1,7 @@
 # pipex 
 
 <p align="center">
-  <img src="https://github.com/FreddyBicandy50/pipex/blob/main/ft_pipexe.png" alt="pipex project badge"/>
+  <img src="https://github.com/FreddyBicandy50/pipex/blob/main/pipexe.png" alt="pipex project badge"/>
 </p>
 
 ## Status
