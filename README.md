@@ -9,7 +9,7 @@ Started: 18/08/2024.
 
 Finished: 31/08/2024.
 
-Grade: 100%.
+Grade: 110%.
 
 ## Project Idea
 This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.
