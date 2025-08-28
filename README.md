@@ -37,4 +37,4 @@ https://www.youtube.com/watch?v=cex9XrZCU14
 https://www.youtube.com/watch?v=Mqb2dVRe0uo
 
 ---
-fbicandy@student.42.fr | LinkedIn: [fbicandy](https://www.linkedin.com/in/freddy-bicandy/)
+fbicandy@student.42.fr | LinkedIn: [Frederic Bicandi](https://www.linkedin.com/in/fredericbicandi/)
